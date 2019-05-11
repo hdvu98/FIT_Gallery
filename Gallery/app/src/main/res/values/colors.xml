@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dfe6e9</color>
+    <color name="colorPrimaryDark">#dfe6e9</color>
+
+    <color name="colorAccent">#c8e8ff</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColor">#000000</color>
+    <color name="windowBackground">#ffffff</color>
+
+    <color name="navigationBarColor">#c4c4c4</color>
+    <color name="tabTextColor">#FFF</color>
+    <color name="tabIndicatorColor">#FF80AB</color>
+
+    <color name="status_bar_color">#ffffff</color>
+    <color name="selected_text_color">#000000</color>
+    <color name="unselected_text_color">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="fuzzy">#7b000000</color>
+    <color name="bgBottomNavigation">#64000000</color>
+    <color name="btnDelete">#00e676</color>
+    <color name="btnPhotoBg">#fafafa</color>
+    <color name="dialogDeletePhotoBg">#5e000000</color>
+    <color name="dialogAboutBg">#d6000000</color>
+</resources>

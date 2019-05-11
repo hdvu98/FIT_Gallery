@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ImageView
+        android:id="@+id/albumThumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/albumName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/albumThumbnail"
+        android:layout_alignStart="@+id/albumThumbnail"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/gradient_background"
+        android:textSize="15sp"
+        android:fontFamily="@font/roboto_back"
+        android:lines="2"
+        android:text="hahahaahaha kasksaksaks"/>
+
+</RelativeLayout>
